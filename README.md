@@ -1,7 +1,7 @@
 # Aula-Flexbox
 
 <p align="center">
-    <img width="800" src="">
+    <img width="250" src="assets/image/vainaweb.jpg">
 </p>
 
 -------
